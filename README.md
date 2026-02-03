@@ -1,6 +1,6 @@
-To setup the project 
-First clone the entire repository 
-git clone https://github.com/idevelop4u/web_app_screening_task_fossee.git
+# To setup the project 
+## First clone the entire repository 
+### git clone https://github.com/idevelop4u/web_app_screening_task_fossee.git
 
 # For the web frontend -> 
 
