@@ -15,7 +15,7 @@
 or 
 
 ### pip install (package_name)
-#### // refer the requirements.txt file in backend/ for package names
+#### // refer the requirements.txt file in backend folder for package names
 ### cd backend
 ### python manage.py runserver
 
@@ -26,7 +26,7 @@ or
 or 
 
 ### pip install (package_name)
-#### // refer the requirements.txt file in desktop/ for package names
+#### // refer the requirements.txt file in desktop folder for package names
 ### cd desktop 
 ### python window.py 
 
