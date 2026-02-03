@@ -1,8 +1,6 @@
 # Backend
 backend/db.sqlite3
 backend/__pycache__/
-backend/.env
-backend/.env.local
 backend/settings_local.py
 backend/venv/
 backend/api/__pycache__/
@@ -11,14 +9,12 @@ backend/core/__pycache__/
 # Frontend
 web_client/node_modules/
 web_client/dist/
-web_client/.env.local
-web_client/.env
+
 
 # Desktop
 desktop/__pycache__/
 desktop/.venv/
-desktop/.env
-desktop/.env.local
+
 
 # IDE
 .vscode/
