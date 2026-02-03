@@ -12,8 +12,8 @@ To setup the project
 
 or 
 
-### pip install <packages> 
-#### // refer the requirements.txt file for package names
+### pip install (package_name)
+#### // refer the requirements.txt file in backend/ for package names
 ### cd backend
 ### python manage.py runserver
 
@@ -23,8 +23,8 @@ or
 
 or 
 
-### pip install <packages> 
-#### // refer the requirements.txt file for package names
+### pip install (package_name)
+#### // refer the requirements.txt file in desktop/ for package names
 ### cd desktop 
 ### python window.py 
 
